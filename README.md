@@ -23,3 +23,14 @@ This repository is for CSC 510's HW2. The purpose is to show our groups proficie
 - [ ] Task 4: Create and Assign Issues
 - [ ] Task 5: Complete individual issues
 - [ ] Task 6: Comeplete Issue 5.
+
+### Screenshots
+
+![example img](https://cdn-icons-png.flaticon.com/256/5360/5360938.png)
+
+### Code Examples
+
+```
+# Stage all changes for commit
+git add .
+```
