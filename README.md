@@ -19,14 +19,15 @@ This repository is for CSC 510's HW2. The purpose is to show our groups proficie
 
 - [x] Task 1: Add Badges
 - [x] Task 2: Create simple HTML page
-- [ ] Task 3: Create individual Branches
-- [ ] Task 4: Create and Assign Issues
+- [x] Task 3: Create individual Branches
+- [x] Task 4: Create and Assign Issues
 - [ ] Task 5: Complete individual issues
 - [ ] Task 6: Comeplete Issue 5.
 
 ### Screenshots
 
-![example img](https://cdn-icons-png.flaticon.com/256/5360/5360938.png)
+![Camille Screenshot 1](camImages/CamilleSEHW2_1_wm.png)
+![Camille Screenshot 2](camImages/CamilleSEHW2_2_wm.png)
 
 ### Code Examples
 
