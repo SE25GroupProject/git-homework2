@@ -115,6 +115,16 @@
 
     li .email {
       font-size: 12px;
+      z-index: 100;
+      position: relative;
+    }
+
+    a:link {
+      color: #e8aa3a;
+    }
+
+    a:hover {
+      color: #db9b25;
     }
 
     footer {
@@ -142,7 +152,9 @@
         <ul>
           <li>
             <div class="name">Camille Jones</div>
-            <div class="email">(crjone24@ncsu.edu)</div>
+            <div class="email">
+              <a href="mailto:crjone24@ncsu.edu">(crjone24@ncsu.edu)</a>
+            </div>
           </li>
           <li>
             <div class="name">Michael Sanchez</div>
