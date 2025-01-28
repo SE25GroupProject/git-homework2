@@ -26,8 +26,8 @@ This repository is for CSC 510's HW2. The purpose is to show our groups proficie
 
 ### Screenshots
 
-![Camille Screenshot 1](camImages/CamilleSEHW2_1_wm.png)
-![Camille Screenshot 2](camImages/CamilleSEHW2_2_wm.png)
+![Jacob Screenshot](image.png)
+
 
 ### Code Examples
 
