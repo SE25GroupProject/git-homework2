@@ -26,8 +26,8 @@ This repository is for CSC 510's HW2. The purpose is to show our groups proficie
 
 ### Screenshots
 
-![img_1_mdsanche]([https://cdn-icons-png.flaticon.com/256/5360/5360938.png](https://github.com/SE25GroupProject/git-homework2/blob/mdsanche/mdsancheImages/hw2csc510-1-mdsanche.png))
-![img_1_mdsanche]([https://cdn-icons-png.flaticon.com/256/5360/5360938.png](https://github.com/SE25GroupProject/git-homework2/blob/mdsanche/mdsancheImages/hw2csc510-2-mdsanche.png))
+![img_1_mdsanche](mdsancheImages/hw2csc510-1-mdsanche.png)
+![img_2_mdsanche](mdsancheImages/hw2csc510-2-mdsanche.png)
 
 ### Code Examples
 
